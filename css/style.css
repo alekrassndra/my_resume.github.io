@@ -1,0 +1,204 @@
+body {
+    background: #EEEEEE;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.wrapper {
+    background: #EEEEEE;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1500px;
+    margin: 0 auto;
+}
+
+.main {
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+}
+
+.info {
+    margin-bottom: 40px;
+}
+
+.education_conteiner {
+    margin-bottom: 40px;
+}
+
+.sidebar {
+    background: #EA9215;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    max-width: 370px;
+}
+
+.sidebar_content {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+/* внутрішній відступ у списках */
+list {
+    padding-left: 16px;
+}
+
+/* заголовки з розділу бічної панелі */
+.sidebar_title {
+    color: #303841;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.career_conteiner {
+    margin-bottom: 40px;
+}
+
+/* заголовки з розділу основного контенту */
+.main_title {
+    color: #EA9215;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+/* підзаголовок про кар'єру */
+.career_item {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    font-weight: 400;
+    margin-right: 8px;
+}
+
+.skills_conteiner {
+    margin-bottom: 40px;
+}
+
+/* підзаголовки про ключові навички */
+.skills_list_item {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* підзаголовок про контакти */
+.contact_item {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    font-weight: 400;
+    margin-right: 8px;
+}
+
+.contact_conteiner {
+    margin-top: 40px;
+}
+
+.name_container {
+    margin-bottom: 40px;
+}
+
+.name {
+    color: #EA9215;
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+}
+
+.profession {
+    color: #000000;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.experience_conteiner {
+    margin-bottom: 40px;
+}
+
+/* .experience_conteiner_ {
+    margin-top: 40px;
+} */
+
+experience_list {
+    padding-left: 16px;
+}
+
+.experience_title {
+    color: #EA9215;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+/* .list_item {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+} */
+
+
+.experience_list_item {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+.education_list_item {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h4 {
+    color: #000000;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h5 {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+course_conteiner {
+    margin-bottom: 40px;
+}
+
+.course_list_item {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+}
